@@ -1,26 +1,52 @@
+### Hello World, I'm Luan  👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hy,+My+Name+Luan+Menezes;I'm+22+years+old;and+i'm+frontend+developer+:D)](https://git.io/typing-svg)
+ <img align="right" alt="GIF" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="500" height="320" />
 
-<img align="center" alt="css" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp0c3lyeHp5ZGZ4dGlvaWEwbmVmZGJ3ejZ6c3FpNmNzd3UxbW9wdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp"/>
 
-## Minhas redes sociais
+### Sou estudante e apaixonado por tecnolgogia
+- ✍ Você pode encontrar meus projetos aqui [portfolio]
+- 🔭 Estou a procura de emprego
+- 🌱 Atualmente estou aprendendo React e javascript
+- 👯 Sou autodidata e aprendo com velocidade
+- 💬 Pergunte-me sobre... Qualquer coisa
+- 😄 Sou extremamente sociavel e trabalho bem em equipe
+- ⚡ Aprendo com rapidez e Eficiência 
 
-<div style="text-align: center;">
 
-[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-menezes-93a397316/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanbmenez/)
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-![LuanBmenez GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanBmenez&theme=chartreuse-dar)
+<br />
 
-</div>
+### Languages and Tools:
 
-## Tecnologias que eu uso no meu dia
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<div style="text-align: center;">
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="css" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
- </div>
- </div>  
 
+<br />
+<br />
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luanbmenez&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanbmenez" />
+
+</details>
+
+[instagram]: https://www.instagram.com/luanbmenez/
+[linkedin]: (https://www.linkedin.com/in/luan-menezes/)
+[portfolio]: https://github.com/LuanBmenez/LuanBmenez

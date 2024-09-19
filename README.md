@@ -1,6 +1,6 @@
 ### Hello World, I'm Luan  👋
 
- <img align="right" alt="GIF" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="300" height="220" />
 
 
 ### Sou estudante e apaixonado por tecnolgogia

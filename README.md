@@ -39,7 +39,7 @@
   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luanbmenez&show_icons=true&hide_border=true" />
 
 </details>
-
+<br/>
 <details>
   <summary>:zap: Most Used Languages</summary>
 

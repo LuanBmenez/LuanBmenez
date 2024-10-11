@@ -48,4 +48,4 @@
 
 [instagram]: https://www.instagram.com/luanbmenez/
 [linkedin]: (https://www.linkedin.com/in/luan-menezes/)
-[portfolio]: https://github.com/LuanBmenez/LuanBmenez
+[portfolio]: https://portifolio-swart-pi.vercel.app/

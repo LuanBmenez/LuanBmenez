@@ -13,8 +13,8 @@
 - ⚡ Aprendo com rapidez e Eficiência 
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luanbmenez&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanbmenez&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ---------------------------- | -|
 
 <br />
 

@@ -57,4 +57,4 @@
 
 [instagram]: https://www.instagram.com/luanbmenez/
 [linkedin]: (https://www.linkedin.com/in/luan-menezes/)
-[portfolio]: https://portifolio-swart-pi.vercel.app/
+[portfolio]: https://portifolio-luan-ruddy.vercel.app/

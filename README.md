@@ -48,6 +48,8 @@
 
 </details>
 
+<br clear="left" />
+
 <details>
   <summary>:zap: Linguagens Mais Usadas</summary>
 

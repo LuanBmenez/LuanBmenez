@@ -3,13 +3,13 @@
  <img align="right" alt="GIF" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="300" height="220" />
 
 
-### Sou estudante e apaixonado por tecnolgogia
-- ✍ Você pode encontrar meus projetos aqui [portfolio]
+### Sou estudante e apaixonado por tecnologia
+- ✍ Você pode encontrar meus projetos aqui [portfolio][portfolio]
 - 🔭 Estou a procura de emprego
 - 🌱 Atualmente estou aprendendo React e javascript
 - 👯 Sou autodidata e aprendo com velocidade
 - 💬 Pergunte-me sobre... Qualquer coisa
-- 😄 Sou extremamente sociavel e trabalho bem em equipe
+- 😄 Sou extremamente sociável e trabalho bem em equipe
 - ⚡ Aprendo com rapidez e Eficiência 
 
 
@@ -19,7 +19,7 @@
 <br />
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuanBmenez}/count.svg" /></p> 
 
 </div>
@@ -44,17 +44,17 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luanbmenez&show_icons=true&hide_border=true" />
+  <img align="left" alt="Luan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luanbmenez&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Linguagens Mais Usadas</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanbmenez" />
+<img align="left" alt="Luan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanbmenez" />
 
 </details>
 
 [instagram]: https://www.instagram.com/luanbmenez/
-[linkedin]: (https://www.linkedin.com/in/luan-menezes/)
+[linkedin]: https://www.linkedin.com/in/luan-menezes/
 [portfolio]: https://portifolio-luan-ruddy.vercel.app/

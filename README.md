@@ -1,7 +1,5 @@
 # Olá, eu sou Luan Menezes 👋
 
-<img align="right" alt="Developer working" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="300" height="220" />
-
 ## Desenvolvedor Front-end
 
 Sou desenvolvedor front-end com quase 2 anos de experiência no desenvolvimento e otimização de interfaces para e-commerce.

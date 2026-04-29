@@ -1,60 +1,110 @@
-### Hello World, I'm Luan  👋
+# Olá, eu sou Luan Menezes 👋
 
- <img align="right" alt="GIF" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="300" height="220" />
+<img align="right" alt="Developer working" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="300" height="220" />
 
+## Desenvolvedor Front-end
 
-### Sou estudante e apaixonado por tecnologia
-- ✍ Você pode encontrar meus projetos aqui [portfolio][portfolio]
-- 🔭 Estou a procura de emprego
-- 🌱 Atualmente estou aprendendo React e javascript
-- 👯 Sou autodidata e aprendo com velocidade
-- 💬 Pergunte-me sobre... Qualquer coisa
-- 😄 Sou extremamente sociável e trabalho bem em equipe
-- ⚡ Aprendo com rapidez e Eficiência 
+Sou desenvolvedor front-end com quase 2 anos de experiência no desenvolvimento e otimização de interfaces para e-commerce.
 
+Atualmente trabalho com **React, TypeScript, Next.js, Eitri, VTEX e Wake**, criando telas, componentes reutilizáveis e experiências digitais com foco em performance, responsividade e experiência do usuário.
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luanbmenez&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanbmenez&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ---------------------------- | -|
+Também tenho conhecimentos em **Node.js, PostgreSQL, MongoDB, Git, HTML, CSS, C# e Unity**, além de interesse constante em arquitetura front-end, consumo de APIs, boas práticas de código e evolução técnica.
+
+- 💼 Atualmente atuo como desenvolvedor front-end na Wicomm
+- 🚀 Foco em React, TypeScript, Next.js e desenvolvimento para e-commerce
+- 🧩 Gosto de trabalhar com componentização, interfaces responsivas e código limpo
+- 📚 Estudo continuamente para evoluir como desenvolvedor de software
+- 🤝 Valorizo trabalho em equipe, comunicação e aprendizado constante
+- ✍️ Você pode encontrar alguns dos meus projetos aqui: [Portfólio][portfolio]
+
+<br />
+
+## Tecnologias e ferramentas
+
+<p align="left">
+  <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+  <img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+  <img alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+  <img alt="TypeScript" width="32px" src="https://abrudz.github.io/logos/TypeScript.svg" />
+  <img alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+  <img alt="Next.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="PostgreSQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+  <img alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+  <img alt="CSharp" width="32px" src="https://abrudz.github.io/logos/CSharp.svg" />
+  <img alt="Unity" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+</p>
 
 <br />
 
+## Atualmente estudando e praticando
 
-
-
-
-### Linguagens e ferramentas:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://abrudz.github.io/logos/TypeScript.svg" />
-<img align="left" alt="Csharp" width="26px" src="https://abrudz.github.io/logos/CSharp.svg" />
-<img align="left" alt="Node" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Postgre" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Postgre" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" />
-
+- TypeScript avançado
+- Next.js
+- Arquitetura front-end
+- Testes com Vitest
+- Consumo e integração com APIs
+- Boas práticas de componentização
+- Projetos voltados para e-commerce
 
 <br />
+
+## Projetos em destaque
+
+### OrderFlow Admin
+
+Projeto pessoal em desenvolvimento com **Next.js + TypeScript**, simulando um painel administrativo para gerenciamento de pedidos de e-commerce.
+
+Funcionalidades planejadas:
+
+- Dashboard com métricas
+- Listagem de pedidos
+- Filtro por status
+- Busca por cliente ou número do pedido
+- Detalhes do pedido
+- Timeline de entrega
+- Tipos de entrega: delivery, retirada em loja e retirada funcionário
+- Estados de loading, erro e lista vazia
+
+> Projeto criado para praticar TypeScript, arquitetura front-end, componentização e construção de interfaces próximas de cenários reais de e-commerce.
+
 <br />
 
+## GitHub Stats
+
+| GitHub Commits | GitHub Details |
+| --- | --- |
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luanbmenez&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanbmenez&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+
+<br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>⚡ Mais estatísticas</summary>
 
-  <img alt="Luan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luanbmenez&show_icons=true&hide_border=true" />
+  <br />
+
+  <img alt="Luan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luanbmenez&show_icons=true&hide_border=true&theme=dracula" />
 
 </details>
 
 <details>
-  <summary>:zap: Linguagens Mais Usadas</summary>
+  <summary>⚡ Linguagens mais usadas</summary>
 
-<img alt="Luan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanbmenez" />
+  <br />
+
+  <img alt="Luan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanbmenez&theme=dracula&layout=compact" />
 
 </details>
+
+<br />
+
+## Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luan%20Menezes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-000000?style=for-the-badge&logo=vercel&logoColor=white)][portfolio]
 
 [instagram]: https://www.instagram.com/luanbmenez/
 [linkedin]: https://www.linkedin.com/in/luan-menezes/

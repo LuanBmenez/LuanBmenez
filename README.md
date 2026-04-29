@@ -48,26 +48,7 @@ Também tenho conhecimentos em **Node.js, PostgreSQL, MongoDB, Git, HTML, CSS, C
 - Boas práticas de componentização
 - Projetos voltados para e-commerce
 
-<br />
 
-## Projetos em destaque
-
-### OrderFlow Admin
-
-Projeto pessoal em desenvolvimento com **Next.js + TypeScript**, simulando um painel administrativo para gerenciamento de pedidos de e-commerce.
-
-Funcionalidades planejadas:
-
-- Dashboard com métricas
-- Listagem de pedidos
-- Filtro por status
-- Busca por cliente ou número do pedido
-- Detalhes do pedido
-- Timeline de entrega
-- Tipos de entrega: delivery, retirada em loja e retirada funcionário
-- Estados de loading, erro e lista vazia
-
-> Projeto criado para praticar TypeScript, arquitetura front-end, componentização e construção de interfaces próximas de cenários reais de e-commerce.
 
 <br />
 
